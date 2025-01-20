@@ -1,9 +1,8 @@
 # Fine-tuning-Large-Language-Models-for-Entity-Recognition-Task
 
 ## Instructions to Run
-1. git clone https://github.com/muhammadafzaal/Fine-tuning-Large-Language-Models-for-Entity-Recognition-Task.git
-2. pip install -r requirements.txt
-3. python code.py
+1. pip install -r requirements.txt
+2. python code.py
 
 **IMPORTANT:** "filtered_categories = True" in code.py means only five entity types (PERSON(PER), ORGANIZATION(ORG), LOCATION(LOC), DISEASES(DIS), ANIMAL(ANIM)) will be used as classes. 
 
